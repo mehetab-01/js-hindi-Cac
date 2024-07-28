@@ -16,7 +16,5 @@ let myArr = ["Mehetab", "Shell", "Jack", "dwd2"];
 // console.log(myArr);
 
 
-
-
 let newArr = new Array (200,8,4,2,51,845,74,86,5,94,21);
 console.log(newArr.splice(3,5));        // here 3 is position to start & 5 is the No. of delete count
