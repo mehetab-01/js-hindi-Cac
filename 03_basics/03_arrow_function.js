@@ -1,6 +1,6 @@
 const user = {
-    username: "hitesh",
-    price: 999,
+    username: "Shell",
+    price: 699,
     welcomeMessage: function() {
         console.log(`${this.username} , welcome to website`);
         console.log(this);
@@ -8,25 +8,25 @@ const user = {
 }
 
 // user.welcomeMessage()
-// user.username = "sam"
+// user.username = "Meh"
 // user.welcomeMessage()
 
 // console.log(this);                  //global scpoe mai defined jo jo hai
 
 function chai(){
-    let username = "hitesh"
+    let username = "Shell"
     console.log(this.username);
 }
 
 chai()
 
 // const chai = function () {
-//     let username = "hitesh"
+//     let username = "Shell"
 //     console.log(this.username);
 // }
 
 const chai2 =  () => {
-    let username = "hitesh"
+    let username = "Shell"
     console.log(this);
 }
 
@@ -39,7 +39,7 @@ const chai2 =  () => {
 
 let addTwo2 = (num1, num2) =>  num1 + num2
 let add2Two = (num1, num2) => ( num1 + num2 )
-const addTwo = (num1, num2) => ({username: "hitesh"})
+const addTwo = (num1, num2) => ({username: "MeHs"})
 
 console.log(addTwo(3, 4))
 
