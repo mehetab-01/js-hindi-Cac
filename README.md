@@ -7,4 +7,4 @@
 
 ### This notes is followed by the course 
 
-[##Javascript in 1 shot in Hindi](https://youtu.be/sscX432bMZo?si=FjEymO2f1JqYXnKQ)
+[Javascript in 1 shot in Hindi](https://youtu.be/sscX432bMZo?si=FjEymO2f1JqYXnKQ)
